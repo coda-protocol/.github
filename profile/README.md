@@ -1,7 +1,7 @@
 # Coda Labs | Building the Future of Web3
 
 ## Our Mission
-Driving the growth of the on-chain economy by building essential products for both businesses and consumers, empowering teams and individuals to manage and scale their on-chain operations, and creating engaging social experiences that empower the next billion users.
+We empower the next wave of the internet by creating intuitive, verifiable on-chain tools that break free from centralized control. Our products provide individuals and teams the cryptographic certainty needed to build and scale confidently in an open, user-owned economy.
 
 🧑‍💼🤝🧑‍🤝‍🧑
 
